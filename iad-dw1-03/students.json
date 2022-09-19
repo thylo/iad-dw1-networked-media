@@ -1,0 +1,4554 @@
+[
+  {
+    "matric": "1",
+    "nom": "ADAMS",
+    "prenom": "Kevin",
+    "login": "kevin.adams@etu.iad-arts.be",
+    "classe": "",
+    "photo": "PROECO_PHOTO/1.JPG"
+  },
+  {
+    "matric": "2",
+    "nom": "Adamczyk",
+    "prenom": "Pierre",
+    "login": "pierre.adamczyk@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4755.JPG"
+  },
+  {
+    "matric": "3",
+    "nom": "Aguilera",
+    "prenom": "Denys",
+    "login": "denys.aguilera@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5035.JPG"
+  },
+  {
+    "matric": "4",
+    "nom": "Alagnou",
+    "prenom": "Simon",
+    "login": "simon.alagnou@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5300.JPG"
+  },
+  {
+    "matric": "5",
+    "nom": "Alarcon",
+    "prenom": "Paulin",
+    "login": "paulin.alarcon@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/584.JPG"
+  },
+  {
+    "matric": "6",
+    "nom": "Aldeghi",
+    "prenom": "Elyse",
+    "login": "elyse.aldeghi@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5115.JPG"
+  },
+  {
+    "matric": "7",
+    "nom": "Allen",
+    "prenom": "Tracy",
+    "login": "tracy.allen@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4782.JPG"
+  },
+  {
+    "matric": "8",
+    "nom": "Alloing",
+    "prenom": "Maxence",
+    "login": "maxence.alloing@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5302.JPG"
+  },
+  {
+    "matric": "9",
+    "nom": "Andoura",
+    "prenom": "Samih",
+    "login": "samih.andoura@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5117.JPG"
+  },
+  {
+    "matric": "10",
+    "nom": "Andoura",
+    "prenom": "Nour",
+    "login": "nour.andoura@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4859.JPG"
+  },
+  {
+    "matric": "11",
+    "nom": "Andre",
+    "prenom": "Léopold",
+    "login": "leopold.andre@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4923.JPG"
+  },
+  {
+    "matric": "12",
+    "nom": "Ansseau",
+    "prenom": "Guillaume",
+    "login": "guillaume.ansseau@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5303.JPG"
+  },
+  {
+    "matric": "13",
+    "nom": "Antoine",
+    "prenom": "Philémon",
+    "login": "philemon.antoine@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/8.JPG"
+  },
+  {
+    "matric": "14",
+    "nom": "Antoine",
+    "prenom": "Guillaume",
+    "login": "guillaume.antoine@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/4924.JPG"
+  },
+  {
+    "matric": "15",
+    "nom": "Ardiaco Pociello",
+    "prenom": "Guillaume",
+    "login": "guillaume.ardiacopociello@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4823.JPG"
+  },
+  {
+    "matric": "16",
+    "nom": "Arki-langevin",
+    "prenom": "Joan",
+    "login": "joan.arkilangevin@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5304.JPG"
+  },
+  {
+    "matric": "17",
+    "nom": "Auert",
+    "prenom": "Nicolas",
+    "login": "nicolas.auert@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4860.JPG"
+  },
+  {
+    "matric": "18",
+    "nom": "Badoux",
+    "prenom": "Tiphaine",
+    "login": "tiphaine.badoux@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/4803.JPG"
+  },
+  {
+    "matric": "19",
+    "nom": "Balcaen Souto",
+    "prenom": "Thiago",
+    "login": "thiago.balcaensouto@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4783.JPG"
+  },
+  {
+    "matric": "20",
+    "nom": "Balla",
+    "prenom": "Ernest",
+    "login": "ernest.balla@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5305.JPG"
+  },
+  {
+    "matric": "21",
+    "nom": "Bardon-Gac",
+    "prenom": "Joffrey",
+    "login": "joffrey.bardongac@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/4926.JPG"
+  },
+  {
+    "matric": "22",
+    "nom": "Barrère",
+    "prenom": "Etienne",
+    "login": "etienne.barrere@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/590.JPG"
+  },
+  {
+    "matric": "23",
+    "nom": "Barth",
+    "prenom": "Eric",
+    "login": "eric.barth@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4756.JPG"
+  },
+  {
+    "matric": "24",
+    "nom": "Bauloye",
+    "prenom": "Ludovic",
+    "login": "ludovic.bauloye@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5119.JPG"
+  },
+  {
+    "matric": "25",
+    "nom": "Bauthier",
+    "prenom": "Harold",
+    "login": "harold.bauthier@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5106.JPG"
+  },
+  {
+    "matric": "26",
+    "nom": "Bauvir",
+    "prenom": "Sarah",
+    "login": "sarah.bauvir@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4757.JPG"
+  },
+  {
+    "matric": "27",
+    "nom": "Beaucarne",
+    "prenom": "Hugo",
+    "login": "hugo.beaucarne@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4928.JPG"
+  },
+  {
+    "matric": "28",
+    "nom": "Beckers",
+    "prenom": "Romain",
+    "login": "romain.beckers@etu.iad-arts.be",
+    "classe": "CIAAM",
+    "photo": "PROECO_PHOTO/593.JPG"
+  },
+  {
+    "matric": "29",
+    "nom": "Bedrouni",
+    "prenom": "Inès",
+    "login": "ines.bedrouni@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/594.JPG"
+  },
+  {
+    "matric": "30",
+    "nom": "Bel",
+    "prenom": "Matteo",
+    "login": "matteo.bel@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5121.JPG"
+  },
+  {
+    "matric": "31",
+    "nom": "Belokonskaya",
+    "prenom": "Maria",
+    "login": "maria.belokonskaya@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5038.JPG"
+  },
+  {
+    "matric": "32",
+    "nom": "Benhsioua",
+    "prenom": "Ayman",
+    "login": "ayman.benhsioua@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5122.JPG"
+  },
+  {
+    "matric": "33",
+    "nom": "Berdah",
+    "prenom": "Elias",
+    "login": "elias.berdah@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/35.JPG"
+  },
+  {
+    "matric": "34",
+    "nom": "Bergeon",
+    "prenom": "Ludmila",
+    "login": "ludmila.bergeon@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/596.JPG"
+  },
+  {
+    "matric": "35",
+    "nom": "Berghman",
+    "prenom": "Bastien",
+    "login": "bastien.berghman@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4862.JPG"
+  },
+  {
+    "matric": "36",
+    "nom": "Bertrand-Vidal",
+    "prenom": "Margot",
+    "login": "margot.bertrandvidal@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4929.JPG"
+  },
+  {
+    "matric": "37",
+    "nom": "Biason",
+    "prenom": "Lucie",
+    "login": "lucie.biason@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/5488.JPG"
+  },
+  {
+    "matric": "38",
+    "nom": "Bienfait",
+    "prenom": "Morgane",
+    "login": "morgane.bienfait@etu.iad-arts.be",
+    "classe": "CIPAM",
+    "photo": "PROECO_PHOTO/599.JPG"
+  },
+  {
+    "matric": "39",
+    "nom": "Biélande",
+    "prenom": "Anaïa",
+    "login": "anaia.bielande@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4930.JPG"
+  },
+  {
+    "matric": "40",
+    "nom": "Blaise",
+    "prenom": "Théo",
+    "login": "theo.blaise@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5307.JPG"
+  },
+  {
+    "matric": "41",
+    "nom": "Blanchard",
+    "prenom": "Gaël",
+    "login": "gael.blanchard@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5308.JPG"
+  },
+  {
+    "matric": "42",
+    "nom": "Blondiau",
+    "prenom": "Elena",
+    "login": "elena.blondiau@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/600.JPG"
+  },
+  {
+    "matric": "43",
+    "nom": "Bodur",
+    "prenom": "Ozan",
+    "login": "ozan.bodur@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5123.JPG"
+  },
+  {
+    "matric": "44",
+    "nom": "Bondar",
+    "prenom": "Olga",
+    "login": "olga.bondar@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5039.JPG"
+  },
+  {
+    "matric": "45",
+    "nom": "Borie",
+    "prenom": "Baptiste",
+    "login": "baptiste.borie@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5126.JPG"
+  },
+  {
+    "matric": "46",
+    "nom": "Boschmans",
+    "prenom": "Willy",
+    "login": "willy.boschmans@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5310.JPG"
+  },
+  {
+    "matric": "47",
+    "nom": "Bouchat",
+    "prenom": "Boris",
+    "login": "boris.bouchat@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4733.JPG"
+  },
+  {
+    "matric": "48",
+    "nom": "Boulenger",
+    "prenom": "Maxime",
+    "login": "maxime.boulenger@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5128.JPG"
+  },
+  {
+    "matric": "49",
+    "nom": "Boutera",
+    "prenom": "Iman",
+    "login": "iman.boutera@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5040.JPG"
+  },
+  {
+    "matric": "50",
+    "nom": "Bovet",
+    "prenom": "Florence",
+    "login": "florence.bovet@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5041.JPG"
+  },
+  {
+    "matric": "51",
+    "nom": "Brablé",
+    "prenom": "Julien",
+    "login": "julien.brable@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4758.JPG"
+  },
+  {
+    "matric": "52",
+    "nom": "Bracke",
+    "prenom": "Marie",
+    "login": "marie.bracke@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4784.JPG"
+  },
+  {
+    "matric": "53",
+    "nom": "Bradley",
+    "prenom": "Karla",
+    "login": "karla.bradley@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5312.JPG"
+  },
+  {
+    "matric": "54",
+    "nom": "Branders",
+    "prenom": "Céline",
+    "login": "celine.branders@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5042.JPG"
+  },
+  {
+    "matric": "55",
+    "nom": "Breyne",
+    "prenom": "Zélie",
+    "login": "zelie.breyne@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/4807.JPG"
+  },
+  {
+    "matric": "56",
+    "nom": "Bricteux",
+    "prenom": "Nicolas",
+    "login": "nicolas.bricteux@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5313.JPG"
+  },
+  {
+    "matric": "57",
+    "nom": "Broothaerts",
+    "prenom": "Mickey",
+    "login": "mickey.broothaerts@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/73.JPG"
+  },
+  {
+    "matric": "58",
+    "nom": "Brunquers",
+    "prenom": "Achille",
+    "login": "achille.brunquers@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5129.JPG"
+  },
+  {
+    "matric": "59",
+    "nom": "Brusseleers",
+    "prenom": "Nadège",
+    "login": "nadege.brusseleers@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5043.JPG"
+  },
+  {
+    "matric": "60",
+    "nom": "Bruyere",
+    "prenom": "Fanny",
+    "login": "fanny.bruyere@etu.iad-arts.be",
+    "classe": "RTRS2M",
+    "photo": "PROECO_PHOTO/75.JPG"
+  },
+  {
+    "matric": "61",
+    "nom": "Burette",
+    "prenom": "Ingmar",
+    "login": "ingmar.burette@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4808.JPG"
+  },
+  {
+    "matric": "62",
+    "nom": "Burton",
+    "prenom": "Stéphanie",
+    "login": "stephanie.burton@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4934.JPG"
+  },
+  {
+    "matric": "63",
+    "nom": "Bussard",
+    "prenom": "Maéva",
+    "login": "maeva.bussard@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/4827.JPG"
+  },
+  {
+    "matric": "64",
+    "nom": "Bwabo",
+    "prenom": "Ariel",
+    "login": "ariel.bwabo@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5314.JPG"
+  },
+  {
+    "matric": "65",
+    "nom": "Callejon",
+    "prenom": "Arthur",
+    "login": "arthur.callejon@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5315.JPG"
+  },
+  {
+    "matric": "66",
+    "nom": "Callens",
+    "prenom": "Thomas",
+    "login": "thomas.callens@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5130.JPG"
+  },
+  {
+    "matric": "67",
+    "nom": "Camilotto",
+    "prenom": "Vincenzo",
+    "login": "vincenzo.camilotto@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5316.JPG"
+  },
+  {
+    "matric": "68",
+    "nom": "Cammaert",
+    "prenom": "Matthias",
+    "login": "matthias.cammaert@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/610.JPG"
+  },
+  {
+    "matric": "69",
+    "nom": "Canfran",
+    "prenom": "Manuel",
+    "login": "manuel.canfran@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5131.JPG"
+  },
+  {
+    "matric": "70",
+    "nom": "Canon",
+    "prenom": "Antoine",
+    "login": "antoine.canon@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/611.JPG"
+  },
+  {
+    "matric": "71",
+    "nom": "Capelle",
+    "prenom": "Manon",
+    "login": "manon.capelle@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5317.JPG"
+  },
+  {
+    "matric": "72",
+    "nom": "Carmans",
+    "prenom": "Joakeem",
+    "login": "joakeem.carmans@etu.iad-arts.be",
+    "classe": "RTRAM",
+    "photo": "PROECO_PHOTO/86.JPG"
+  },
+  {
+    "matric": "73",
+    "nom": "Carmichael",
+    "prenom": "Tejomay",
+    "login": "tejomay.carmichael@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/4937.JPG"
+  },
+  {
+    "matric": "74",
+    "nom": "Carpentier",
+    "prenom": "Martin",
+    "login": "martin.carpentier@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4938.JPG"
+  },
+  {
+    "matric": "75",
+    "nom": "Cartiaux",
+    "prenom": "Germain",
+    "login": "germain.cartiaux@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4939.JPG"
+  },
+  {
+    "matric": "76",
+    "nom": "Casanova",
+    "prenom": "Felipe",
+    "login": "felipe.casanova@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/90.JPG"
+  },
+  {
+    "matric": "77",
+    "nom": "Castay",
+    "prenom": "Natan",
+    "login": "natan.castay@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/92.JPG"
+  },
+  {
+    "matric": "78",
+    "nom": "Castermant",
+    "prenom": "Nicolas",
+    "login": "nicolas.castermant@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4867.JPG"
+  },
+  {
+    "matric": "79",
+    "nom": "Cerf",
+    "prenom": "Jonathan",
+    "login": "jonathan.cerf@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5318.JPG"
+  },
+  {
+    "matric": "80",
+    "nom": "Cesalli",
+    "prenom": "Clara",
+    "login": "clara.cesalli@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4735.JPG"
+  },
+  {
+    "matric": "81",
+    "nom": "Ceysens",
+    "prenom": "Antoine",
+    "login": "antoine.ceysens@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4941.JPG"
+  },
+  {
+    "matric": "82",
+    "nom": "Chantraine",
+    "prenom": "Manoë",
+    "login": "manoe.chantraine@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4809.JPG"
+  },
+  {
+    "matric": "83",
+    "nom": "Chantraine",
+    "prenom": "Timéon",
+    "login": "timeon.chantraine@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5319.JPG"
+  },
+  {
+    "matric": "84",
+    "nom": "Charlier",
+    "prenom": "Martin",
+    "login": "martin.charlier@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5133.JPG"
+  },
+  {
+    "matric": "85",
+    "nom": "Charlier",
+    "prenom": "Félix",
+    "login": "felix.charlier@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5321.JPG"
+  },
+  {
+    "matric": "86",
+    "nom": "Chauderlot",
+    "prenom": "Marie",
+    "login": "marie.chauderlot@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/4719.JPG"
+  },
+  {
+    "matric": "87",
+    "nom": "Chavepeyer",
+    "prenom": "Jérôme",
+    "login": "jerome.chavepeyer@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5322.JPG"
+  },
+  {
+    "matric": "88",
+    "nom": "Chbeir",
+    "prenom": "Minerva",
+    "login": "minerva.chbeir@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5284.JPG"
+  },
+  {
+    "matric": "89",
+    "nom": "Cheval",
+    "prenom": "Marine",
+    "login": "marine.cheval@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5134.JPG"
+  },
+  {
+    "matric": "90",
+    "nom": "Chevalier",
+    "prenom": "Maxime",
+    "login": "maxime.chevalier@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5324.JPG"
+  },
+  {
+    "matric": "91",
+    "nom": "Chomé",
+    "prenom": "Christophe",
+    "login": "christophe.chome@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4829.JPG"
+  },
+  {
+    "matric": "92",
+    "nom": "Christien",
+    "prenom": "Arnaud",
+    "login": "arnaud.christien@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5325.JPG"
+  },
+  {
+    "matric": "93",
+    "nom": "Cirri",
+    "prenom": "Matteo",
+    "login": "matteo.cirri@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/5465.JPG"
+  },
+  {
+    "matric": "94",
+    "nom": "Claeys",
+    "prenom": "Callistine",
+    "login": "callistine.claeys@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5135.JPG"
+  },
+  {
+    "matric": "95",
+    "nom": "Clausse",
+    "prenom": "Léo",
+    "login": "leo.clausse@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/619.JPG"
+  },
+  {
+    "matric": "96",
+    "nom": "Clerbaux",
+    "prenom": "Jeanne",
+    "login": "jeanne.clerbaux@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5045.JPG"
+  },
+  {
+    "matric": "97",
+    "nom": "Clisson",
+    "prenom": "Fiachra",
+    "login": "fiachra.clisson@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/4869.JPG"
+  },
+  {
+    "matric": "98",
+    "nom": "Closter",
+    "prenom": "Erine",
+    "login": "erine.closter@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4785.JPG"
+  },
+  {
+    "matric": "99",
+    "nom": "Clément",
+    "prenom": "Naël",
+    "login": "nael.clement@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/620.JPG"
+  },
+  {
+    "matric": "100",
+    "nom": "Clément",
+    "prenom": "Valère",
+    "login": "valere.clement@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/621.JPG"
+  },
+  {
+    "matric": "101",
+    "nom": "Clément",
+    "prenom": "Loïc",
+    "login": "loic.clement@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4942.JPG"
+  },
+  {
+    "matric": "102",
+    "nom": "Clément",
+    "prenom": "Evie",
+    "login": "evie.clement@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5326.JPG"
+  },
+  {
+    "matric": "103",
+    "nom": "Collard",
+    "prenom": "Valentin",
+    "login": "valentin.collard@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4736.JPG"
+  },
+  {
+    "matric": "104",
+    "nom": "Collard",
+    "prenom": "Hugo",
+    "login": "hugo.collard@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5327.JPG"
+  },
+  {
+    "matric": "105",
+    "nom": "Corbisier",
+    "prenom": "Pierre-Alexandre",
+    "login": "pierrealexandre.corbisier@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4943.JPG"
+  },
+  {
+    "matric": "106",
+    "nom": "Cornil",
+    "prenom": "Maxence",
+    "login": "maxence.cornil@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5329.JPG"
+  },
+  {
+    "matric": "107",
+    "nom": "Courault",
+    "prenom": "Aurore",
+    "login": "aurore.courault@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/626.JPG"
+  },
+  {
+    "matric": "108",
+    "nom": "Courtoy",
+    "prenom": "Antoine",
+    "login": "antoine.courtoy@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/4911.JPG"
+  },
+  {
+    "matric": "109",
+    "nom": "Crenn",
+    "prenom": "Morgan",
+    "login": "morgan.crenn@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5332.JPG"
+  },
+  {
+    "matric": "110",
+    "nom": "Crivellari",
+    "prenom": "Corentin",
+    "login": "corentin.crivellari@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5333.JPG"
+  },
+  {
+    "matric": "111",
+    "nom": "Crozon",
+    "prenom": "Solenn",
+    "login": "solenn.crozon@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/628.JPG"
+  },
+  {
+    "matric": "112",
+    "nom": "D'aout",
+    "prenom": "Clément",
+    "login": "clement.daout@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5137.JPG"
+  },
+  {
+    "matric": "113",
+    "nom": "Dalsbaek",
+    "prenom": "Ines",
+    "login": "ines.dalsbaek@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5336.JPG"
+  },
+  {
+    "matric": "114",
+    "nom": "Dandois",
+    "prenom": "Mélinda",
+    "login": "melinda.dandois@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5337.JPG"
+  },
+  {
+    "matric": "115",
+    "nom": "Dandois",
+    "prenom": "Bilal",
+    "login": "bilal.dandois@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5338.JPG"
+  },
+  {
+    "matric": "116",
+    "nom": "Dangremont",
+    "prenom": "Louis",
+    "login": "louis.dangremont@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5136.JPG"
+  },
+  {
+    "matric": "117",
+    "nom": "Dardenne",
+    "prenom": "Théo",
+    "login": "theo.dardenne@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/632.JPG"
+  },
+  {
+    "matric": "118",
+    "nom": "Darimont",
+    "prenom": "Victor",
+    "login": "victor.darimont@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/122.JPG"
+  },
+  {
+    "matric": "119",
+    "nom": "David",
+    "prenom": "Éloïse",
+    "login": "eloise.david@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5339.JPG"
+  },
+  {
+    "matric": "120",
+    "nom": "De Brabandère",
+    "prenom": "Valentin",
+    "login": "valentin.debrabandere@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4946.JPG"
+  },
+  {
+    "matric": "121",
+    "nom": "De Caluwe",
+    "prenom": "Félix",
+    "login": "felix.decaluwe@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/126.JPG"
+  },
+  {
+    "matric": "122",
+    "nom": "De Kuysscher",
+    "prenom": "Elisa",
+    "login": "elisa.dekuysscher@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/4947.JPG"
+  },
+  {
+    "matric": "123",
+    "nom": "De Myttenaere",
+    "prenom": "Martin",
+    "login": "martin.demyttenaere@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5139.JPG"
+  },
+  {
+    "matric": "124",
+    "nom": "De Saboulin",
+    "prenom": "Gillie",
+    "login": "gillie.desaboulin@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/4833.JPG"
+  },
+  {
+    "matric": "125",
+    "nom": "De Schutter",
+    "prenom": "Niels",
+    "login": "niels.deschutter@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/636.JPG"
+  },
+  {
+    "matric": "126",
+    "nom": "De Winkeleer",
+    "prenom": "Jérôme",
+    "login": "jerome.dewinkeleer@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/5110.JPG"
+  },
+  {
+    "matric": "127",
+    "nom": "De backer",
+    "prenom": "Lison",
+    "login": "lison.debacker@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5340.JPG"
+  },
+  {
+    "matric": "128",
+    "nom": "De bock",
+    "prenom": "Basile",
+    "login": "basile.debock@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5341.JPG"
+  },
+  {
+    "matric": "129",
+    "nom": "De kerpel",
+    "prenom": "Luna",
+    "login": "luna.dekerpel@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5343.JPG"
+  },
+  {
+    "matric": "130",
+    "nom": "De muynck",
+    "prenom": "Tyssia",
+    "login": "tyssia.demuynck@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5344.JPG"
+  },
+  {
+    "matric": "131",
+    "nom": "Debaisieux",
+    "prenom": "Robin",
+    "login": "robin.debaisieux@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/4810.JPG"
+  },
+  {
+    "matric": "132",
+    "nom": "Debauche",
+    "prenom": "Corentin",
+    "login": "corentin.debauche@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5141.JPG"
+  },
+  {
+    "matric": "133",
+    "nom": "Debuysschere",
+    "prenom": "Simon",
+    "login": "simon.debuysschere@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/4875.JPG"
+  },
+  {
+    "matric": "134",
+    "nom": "Decottignies",
+    "prenom": "Adrien",
+    "login": "adrien.decottignies@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4949.JPG"
+  },
+  {
+    "matric": "135",
+    "nom": "Dedeurwaerder",
+    "prenom": "Léa",
+    "login": "lea.dedeurwaerder@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/639.JPG"
+  },
+  {
+    "matric": "136",
+    "nom": "Defrenne",
+    "prenom": "Simon",
+    "login": "simon.defrenne@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/4950.JPG"
+  },
+  {
+    "matric": "137",
+    "nom": "Degeer",
+    "prenom": "Salomé",
+    "login": "salome.degeer@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4834.JPG"
+  },
+  {
+    "matric": "138",
+    "nom": "Degeimbre",
+    "prenom": "Aubry",
+    "login": "aubry.degeimbre@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5345.JPG"
+  },
+  {
+    "matric": "139",
+    "nom": "Degreef",
+    "prenom": "Diego",
+    "login": "diego.degreef@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/140.JPG"
+  },
+  {
+    "matric": "140",
+    "nom": "Dehelt",
+    "prenom": "Manon",
+    "login": "manon.dehelt@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5142.JPG"
+  },
+  {
+    "matric": "141",
+    "nom": "Dehenain",
+    "prenom": "Robin",
+    "login": "robin.dehenain@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5047.JPG"
+  },
+  {
+    "matric": "142",
+    "nom": "Dekeyser",
+    "prenom": "Pauline",
+    "login": "pauline.dekeyser@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4952.JPG"
+  },
+  {
+    "matric": "143",
+    "nom": "Delbrassine",
+    "prenom": "Sacha",
+    "login": "sacha.delbrassine@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5048.JPG"
+  },
+  {
+    "matric": "144",
+    "nom": "Deleuze",
+    "prenom": "Tiffany",
+    "login": "tiffany.deleuze@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4835.JPG"
+  },
+  {
+    "matric": "145",
+    "nom": "Della faille d'huysse van den",
+    "prenom": "Barbara",
+    "login": "barbara.dellafailledhuyssevanden@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5143.JPG"
+  },
+  {
+    "matric": "146",
+    "nom": "Dellicour",
+    "prenom": "Matéo",
+    "login": "mateo.dellicour@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4877.JPG"
+  },
+  {
+    "matric": "147",
+    "nom": "Delmelle",
+    "prenom": "Caroline",
+    "login": "caroline.delmelle@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5144.JPG"
+  },
+  {
+    "matric": "148",
+    "nom": "Delporte",
+    "prenom": "Nathan",
+    "login": "nathan.delporte@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/642.JPG"
+  },
+  {
+    "matric": "149",
+    "nom": "Delsaut",
+    "prenom": "Sacha",
+    "login": "sacha.delsaut@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5145.JPG"
+  },
+  {
+    "matric": "150",
+    "nom": "Delvaux",
+    "prenom": "Marie",
+    "login": "marie.delvaux@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5147.JPG"
+  },
+  {
+    "matric": "151",
+    "nom": "Delville",
+    "prenom": "Camille",
+    "login": "camille.delville@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/644.JPG"
+  },
+  {
+    "matric": "152",
+    "nom": "Delépine",
+    "prenom": "Lili",
+    "login": "lili.delepine@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/640.JPG"
+  },
+  {
+    "matric": "153",
+    "nom": "Demaret",
+    "prenom": "Céline",
+    "login": "celine.demaret@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4953.JPG"
+  },
+  {
+    "matric": "154",
+    "nom": "Denepoux",
+    "prenom": "Manon",
+    "login": "manon.denepoux@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5109.JPG"
+  },
+  {
+    "matric": "155",
+    "nom": "Denorre",
+    "prenom": "Elisabeth",
+    "login": "elisabeth.denorre@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5346.JPG"
+  },
+  {
+    "matric": "156",
+    "nom": "Depenne",
+    "prenom": "Simon",
+    "login": "simon.depenne@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5148.JPG"
+  },
+  {
+    "matric": "157",
+    "nom": "Depiesse",
+    "prenom": "Jean-Sylvain",
+    "login": "jeansylvain.depiesse@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5149.JPG"
+  },
+  {
+    "matric": "158",
+    "nom": "Depreay",
+    "prenom": "Thomas",
+    "login": "thomas.depreay@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4811.JPG"
+  },
+  {
+    "matric": "159",
+    "nom": "Depré",
+    "prenom": "Clémence",
+    "login": "clemence.depre@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5150.JPG"
+  },
+  {
+    "matric": "160",
+    "nom": "Deroeux",
+    "prenom": "Morrigane",
+    "login": "morrigane.deroeux@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5347.JPG"
+  },
+  {
+    "matric": "161",
+    "nom": "Desorbay",
+    "prenom": "Simon",
+    "login": "simon.desorbay@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/4954.JPG"
+  },
+  {
+    "matric": "162",
+    "nom": "Destrebecq",
+    "prenom": "Eva",
+    "login": "eva.destrebecq@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4788.JPG"
+  },
+  {
+    "matric": "163",
+    "nom": "Detroz",
+    "prenom": "Cyprien",
+    "login": "cyprien.detroz@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4956.JPG"
+  },
+  {
+    "matric": "164",
+    "nom": "Devetter",
+    "prenom": "Emile",
+    "login": "emile.devetter@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4836.JPG"
+  },
+  {
+    "matric": "165",
+    "nom": "Devillers",
+    "prenom": "Arnaud",
+    "login": "arnaud.devillers@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/5103.JPG"
+  },
+  {
+    "matric": "166",
+    "nom": "Devillers",
+    "prenom": "Joséphine",
+    "login": "josephine.devillers@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5348.JPG"
+  },
+  {
+    "matric": "167",
+    "nom": "Devillez",
+    "prenom": "Elisa",
+    "login": "elisa.devillez@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5349.JPG"
+  },
+  {
+    "matric": "168",
+    "nom": "Di Forti",
+    "prenom": "Valeria",
+    "login": "valeria.diforti@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/646.JPG"
+  },
+  {
+    "matric": "169",
+    "nom": "Di Pierro",
+    "prenom": "Elise",
+    "login": "elise.dipierro@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/4737.JPG"
+  },
+  {
+    "matric": "170",
+    "nom": "Dion",
+    "prenom": "Mary",
+    "login": "mary.dion@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5049.JPG"
+  },
+  {
+    "matric": "171",
+    "nom": "Dognaux",
+    "prenom": "Antoine",
+    "login": "antoine.dognaux@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/4958.JPG"
+  },
+  {
+    "matric": "172",
+    "nom": "Dokurno",
+    "prenom": "Zofia",
+    "login": "zofia.dokurno@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5151.JPG"
+  },
+  {
+    "matric": "173",
+    "nom": "Dolens",
+    "prenom": "Théo",
+    "login": "theo.dolens@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5350.JPG"
+  },
+  {
+    "matric": "174",
+    "nom": "Doms",
+    "prenom": "Hidde",
+    "login": "hidde.doms@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5351.JPG"
+  },
+  {
+    "matric": "175",
+    "nom": "Doseray",
+    "prenom": "Florent",
+    "login": "florent.doseray@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5152.JPG"
+  },
+  {
+    "matric": "176",
+    "nom": "Dragomir",
+    "prenom": "Nikita",
+    "login": "nikita.dragomir@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/647.JPG"
+  },
+  {
+    "matric": "177",
+    "nom": "Drutskoy Sokolinsky",
+    "prenom": "Anton",
+    "login": "anton.drutskoysokolinsky@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/648.JPG"
+  },
+  {
+    "matric": "178",
+    "nom": "Du Pré",
+    "prenom": "Lisa",
+    "login": "lisa.dupre@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5050.JPG"
+  },
+  {
+    "matric": "179",
+    "nom": "Du pasquier",
+    "prenom": "Jérôme",
+    "login": "jerome.dupasquier@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5352.JPG"
+  },
+  {
+    "matric": "180",
+    "nom": "Dubaux",
+    "prenom": "Thomé",
+    "login": "thome.dubaux@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4960.JPG"
+  },
+  {
+    "matric": "181",
+    "nom": "Dublange",
+    "prenom": "Quentin",
+    "login": "quentin.dublange@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5353.JPG"
+  },
+  {
+    "matric": "182",
+    "nom": "Dubois",
+    "prenom": "Célestine",
+    "login": "celestine.dubois@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5153.JPG"
+  },
+  {
+    "matric": "183",
+    "nom": "Duc Dubois",
+    "prenom": "Yanis",
+    "login": "yanis.ducdubois@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5154.JPG"
+  },
+  {
+    "matric": "184",
+    "nom": "Ducobu",
+    "prenom": "Benjamin",
+    "login": "benjamin.ducobu@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4880.JPG"
+  },
+  {
+    "matric": "185",
+    "nom": "Dumont",
+    "prenom": "Martin",
+    "login": "martin.dumont@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5354.JPG"
+  },
+  {
+    "matric": "186",
+    "nom": "Dupret",
+    "prenom": "Benjamin",
+    "login": "benjamin.dupret@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4962.JPG"
+  },
+  {
+    "matric": "187",
+    "nom": "Dupriez",
+    "prenom": "Aymeric",
+    "login": "aymeric.dupriez@etu.iad-arts.be",
+    "classe": "CIPAM",
+    "photo": "PROECO_PHOTO/650.JPG"
+  },
+  {
+    "matric": "188",
+    "nom": "Dupuis",
+    "prenom": "Victor",
+    "login": "victor.dupuis@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/4837.JPG"
+  },
+  {
+    "matric": "189",
+    "nom": "Durant",
+    "prenom": "Mathias",
+    "login": "mathias.durant@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5157.JPG"
+  },
+  {
+    "matric": "190",
+    "nom": "Durmort",
+    "prenom": "Victorine",
+    "login": "victorine.durmort@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5051.JPG"
+  },
+  {
+    "matric": "191",
+    "nom": "Durouchoux",
+    "prenom": "Achille",
+    "login": "achille.durouchoux@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5355.JPG"
+  },
+  {
+    "matric": "192",
+    "nom": "Duterme",
+    "prenom": "Gilles",
+    "login": "gilles.duterme@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5356.JPG"
+  },
+  {
+    "matric": "193",
+    "nom": "Dutrieux",
+    "prenom": "Robin",
+    "login": "robin.dutrieux@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4838.JPG"
+  },
+  {
+    "matric": "194",
+    "nom": "Duval",
+    "prenom": "Tabatha",
+    "login": "tabatha.duval@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4963.JPG"
+  },
+  {
+    "matric": "195",
+    "nom": "Eechaute",
+    "prenom": "Emillie",
+    "login": "emillie.eechaute@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4738.JPG"
+  },
+  {
+    "matric": "196",
+    "nom": "Egler",
+    "prenom": "Thibaut",
+    "login": "thibaut.egler@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/189.JPG"
+  },
+  {
+    "matric": "197",
+    "nom": "Escande",
+    "prenom": "William",
+    "login": "william.escande@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5357.JPG"
+  },
+  {
+    "matric": "198",
+    "nom": "Estingoy",
+    "prenom": "Pierre",
+    "login": "pierre.estingoy@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/653.JPG"
+  },
+  {
+    "matric": "199",
+    "nom": "Etienne",
+    "prenom": "Violette",
+    "login": "violette.etienne@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5158.JPG"
+  },
+  {
+    "matric": "200",
+    "nom": "Etienne-weerts",
+    "prenom": "Théo",
+    "login": "theo.etienneweerts@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5159.JPG"
+  },
+  {
+    "matric": "201",
+    "nom": "Evrard",
+    "prenom": "Estelle",
+    "login": "estelle.evrard@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5052.JPG"
+  },
+  {
+    "matric": "202",
+    "nom": "Eylenbosch",
+    "prenom": "Dounia",
+    "login": "dounia.eylenbosch@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5053.JPG"
+  },
+  {
+    "matric": "203",
+    "nom": "Fabre",
+    "prenom": "Charles",
+    "login": "charles.fabre@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/654.JPG"
+  },
+  {
+    "matric": "204",
+    "nom": "Fabri",
+    "prenom": "Nicolas",
+    "login": "nicolas.fabri@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/655.JPG"
+  },
+  {
+    "matric": "205",
+    "nom": "Falys",
+    "prenom": "Marie",
+    "login": "marie.falys@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/196.JPG"
+  },
+  {
+    "matric": "206",
+    "nom": "Farquhar",
+    "prenom": "Tallulah",
+    "login": "tallulah.farquhar@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5054.JPG"
+  },
+  {
+    "matric": "207",
+    "nom": "Fecher",
+    "prenom": "Stivy",
+    "login": "stivy.fecher@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4964.JPG"
+  },
+  {
+    "matric": "208",
+    "nom": "Fedi",
+    "prenom": "Marco",
+    "login": "marco.fedi@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5281.JPG"
+  },
+  {
+    "matric": "209",
+    "nom": "Ferran",
+    "prenom": "Eva",
+    "login": "eva.ferran@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5359.JPG"
+  },
+  {
+    "matric": "210",
+    "nom": "Ferreira Da Silva",
+    "prenom": "Anouk",
+    "login": "anouk.ferreiradasilva@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/4840.JPG"
+  },
+  {
+    "matric": "211",
+    "nom": "Ferreira Da Silva",
+    "prenom": "Lola",
+    "login": "lola.ferreiradasilva@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5160.JPG"
+  },
+  {
+    "matric": "212",
+    "nom": "Finné",
+    "prenom": "Luna",
+    "login": "luna.finne@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5360.JPG"
+  },
+  {
+    "matric": "213",
+    "nom": "Finocchiaro",
+    "prenom": "Dante",
+    "login": "dante.finocchiaro@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5161.JPG"
+  },
+  {
+    "matric": "214",
+    "nom": "Flamand",
+    "prenom": "Cyril",
+    "login": "cyril.flamand@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4966.JPG"
+  },
+  {
+    "matric": "215",
+    "nom": "Florin",
+    "prenom": "Nicola",
+    "login": "nicola.florin@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4764.JPG"
+  },
+  {
+    "matric": "216",
+    "nom": "Folco",
+    "prenom": "Lorenzo",
+    "login": "lorenzo.folco@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4739.JPG"
+  },
+  {
+    "matric": "217",
+    "nom": "Fontaine",
+    "prenom": "Tom",
+    "login": "tom.fontaine@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/4967.JPG"
+  },
+  {
+    "matric": "218",
+    "nom": "Fontaine-Bouma",
+    "prenom": "Amaury",
+    "login": "amaury.fontainebouma@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/658.JPG"
+  },
+  {
+    "matric": "219",
+    "nom": "Fonzé",
+    "prenom": "Quentin",
+    "login": "quentin.fonze@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5361.JPG"
+  },
+  {
+    "matric": "220",
+    "nom": "Fotso-Guifo",
+    "prenom": "Marie",
+    "login": "marie.fotsoguifo@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4841.JPG"
+  },
+  {
+    "matric": "221",
+    "nom": "Fotso-Meguem",
+    "prenom": "Anne",
+    "login": "anne.fotsomeguem@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4765.JPG"
+  },
+  {
+    "matric": "222",
+    "nom": "Fourmarier",
+    "prenom": "Antoine",
+    "login": "antoine.fourmarier@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4882.JPG"
+  },
+  {
+    "matric": "223",
+    "nom": "Fourmentin",
+    "prenom": "Zohra",
+    "login": "zohra.fourmentin@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5362.JPG"
+  },
+  {
+    "matric": "224",
+    "nom": "Fraiture",
+    "prenom": "Elann",
+    "login": "elann.fraiture@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5163.JPG"
+  },
+  {
+    "matric": "225",
+    "nom": "Fraiture",
+    "prenom": "Thibaut",
+    "login": "thibaut.fraiture@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/4968.JPG"
+  },
+  {
+    "matric": "226",
+    "nom": "Franceschi",
+    "prenom": "Marine",
+    "login": "marine.franceschi@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4969.JPG"
+  },
+  {
+    "matric": "227",
+    "nom": "Franken",
+    "prenom": "Simon",
+    "login": "simon.franken@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/4883.JPG"
+  },
+  {
+    "matric": "228",
+    "nom": "François",
+    "prenom": "Mateusz",
+    "login": "mateusz.francois@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/660.JPG"
+  },
+  {
+    "matric": "229",
+    "nom": "François",
+    "prenom": "Thomas",
+    "login": "thomas.francois@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5363.JPG"
+  },
+  {
+    "matric": "230",
+    "nom": "Frognier",
+    "prenom": "Arthur",
+    "login": "arthur.frognier@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5164.JPG"
+  },
+  {
+    "matric": "231",
+    "nom": "Fuks",
+    "prenom": "Eliot",
+    "login": "eliot.fuks@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5365.JPG"
+  },
+  {
+    "matric": "232",
+    "nom": "Funck",
+    "prenom": "Baptiste",
+    "login": "baptiste.funck@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5366.JPG"
+  },
+  {
+    "matric": "233",
+    "nom": "Gailly",
+    "prenom": "Florent",
+    "login": "florent.gailly@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4970.JPG"
+  },
+  {
+    "matric": "234",
+    "nom": "Galabert",
+    "prenom": "Chloe",
+    "login": "chloe.galabert@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5367.JPG"
+  },
+  {
+    "matric": "235",
+    "nom": "Galasse",
+    "prenom": "Lisa",
+    "login": "lisa.galasse@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4971.JPG"
+  },
+  {
+    "matric": "236",
+    "nom": "Galateri di Genola",
+    "prenom": "Sarah",
+    "login": "sarah.galateridigenola@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5165.JPG"
+  },
+  {
+    "matric": "237",
+    "nom": "Galloy",
+    "prenom": "Martin",
+    "login": "martin.galloy@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4789.JPG"
+  },
+  {
+    "matric": "238",
+    "nom": "Gaumerais",
+    "prenom": "Clara",
+    "login": "clara.gaumerais@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/5468.JPG"
+  },
+  {
+    "matric": "239",
+    "nom": "Geleyn",
+    "prenom": "Robin",
+    "login": "robin.geleyn@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4886.JPG"
+  },
+  {
+    "matric": "240",
+    "nom": "Georges",
+    "prenom": "Nell",
+    "login": "nell.georges@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5166.JPG"
+  },
+  {
+    "matric": "241",
+    "nom": "Gervy",
+    "prenom": "Maxime",
+    "login": "maxime.gervy@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5368.JPG"
+  },
+  {
+    "matric": "242",
+    "nom": "Ghigny",
+    "prenom": "Arthur",
+    "login": "arthur.ghigny@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5369.JPG"
+  },
+  {
+    "matric": "243",
+    "nom": "Gigot",
+    "prenom": "Corentin",
+    "login": "corentin.gigot@etu.iad-arts.be",
+    "classe": "CIAAM",
+    "photo": "PROECO_PHOTO/5490.JPG"
+  },
+  {
+    "matric": "244",
+    "nom": "Gillet",
+    "prenom": "Colin",
+    "login": "colin.gillet@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5168.JPG"
+  },
+  {
+    "matric": "245",
+    "nom": "Gilly",
+    "prenom": "Maxime",
+    "login": "maxime.gilly@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4889.JPG"
+  },
+  {
+    "matric": "246",
+    "nom": "Giraldo Galindo",
+    "prenom": "Luisa",
+    "login": "luisa.giraldogalindo@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/665.JPG"
+  },
+  {
+    "matric": "247",
+    "nom": "Goblet",
+    "prenom": "Mattéo",
+    "login": "matteo.goblet@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/229.JPG"
+  },
+  {
+    "matric": "248",
+    "nom": "Gomez Mijango",
+    "prenom": "Luna",
+    "login": "luna.gomezmijango@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4890.JPG"
+  },
+  {
+    "matric": "249",
+    "nom": "Goor",
+    "prenom": "Félix",
+    "login": "felix.goor@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5169.JPG"
+  },
+  {
+    "matric": "250",
+    "nom": "Gothill",
+    "prenom": "Owen",
+    "login": "owen.gothill@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5170.JPG"
+  },
+  {
+    "matric": "251",
+    "nom": "Grimmiaux",
+    "prenom": "Ambre",
+    "login": "ambre.grimmiaux@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5370.JPG"
+  },
+  {
+    "matric": "252",
+    "nom": "Grivet",
+    "prenom": "Lou",
+    "login": "lou.grivet@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5172.JPG"
+  },
+  {
+    "matric": "253",
+    "nom": "Gruson",
+    "prenom": "Baptiste",
+    "login": "baptiste.gruson@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5371.JPG"
+  },
+  {
+    "matric": "254",
+    "nom": "Grégoire",
+    "prenom": "Maryne",
+    "login": "maryne.gregoire@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5171.JPG"
+  },
+  {
+    "matric": "255",
+    "nom": "Guelton",
+    "prenom": "Louis",
+    "login": "louis.guelton@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/668.JPG"
+  },
+  {
+    "matric": "256",
+    "nom": "Guerrero Fernandez",
+    "prenom": "Morgane",
+    "login": "morgane.guerrerofernandez@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4975.JPG"
+  },
+  {
+    "matric": "257",
+    "nom": "Guigon",
+    "prenom": "Axel",
+    "login": "axel.guigon@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4767.JPG"
+  },
+  {
+    "matric": "258",
+    "nom": "Guillaume",
+    "prenom": "Louise",
+    "login": "louise.guillaume@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5372.JPG"
+  },
+  {
+    "matric": "259",
+    "nom": "Guisse",
+    "prenom": "Antoine",
+    "login": "antoine.guisse@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4976.JPG"
+  },
+  {
+    "matric": "260",
+    "nom": "Gunzig",
+    "prenom": "Hannah",
+    "login": "hannah.gunzig@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5174.JPG"
+  },
+  {
+    "matric": "261",
+    "nom": "Guyot",
+    "prenom": "Elliott",
+    "login": "elliott.guyot@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5373.JPG"
+  },
+  {
+    "matric": "262",
+    "nom": "Gévart",
+    "prenom": "Louise",
+    "login": "louise.gevart@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5167.JPG"
+  },
+  {
+    "matric": "263",
+    "nom": "Habert",
+    "prenom": "Ianis",
+    "login": "ianis.habert@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/250.JPG"
+  },
+  {
+    "matric": "264",
+    "nom": "Haineaux",
+    "prenom": "Simon",
+    "login": "simon.haineaux@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/669.JPG"
+  },
+  {
+    "matric": "265",
+    "nom": "Haleng",
+    "prenom": "Eliana",
+    "login": "eliana.haleng@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5176.JPG"
+  },
+  {
+    "matric": "266",
+    "nom": "Halleux",
+    "prenom": "Simon",
+    "login": "simon.halleux@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5061.JPG"
+  },
+  {
+    "matric": "267",
+    "nom": "Hardenne",
+    "prenom": "Célie",
+    "login": "celie.hardenne@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/670.JPG"
+  },
+  {
+    "matric": "268",
+    "nom": "Harris",
+    "prenom": "Jelisa",
+    "login": "jelisa.harris@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5177.JPG"
+  },
+  {
+    "matric": "269",
+    "nom": "Hashimoto",
+    "prenom": "Samuel",
+    "login": "samuel.hashimoto@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/258.JPG"
+  },
+  {
+    "matric": "270",
+    "nom": "Hayoit",
+    "prenom": "Eloïse",
+    "login": "eloise.hayoit@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4977.JPG"
+  },
+  {
+    "matric": "271",
+    "nom": "Hecquet",
+    "prenom": "Colin",
+    "login": "colin.hecquet@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5178.JPG"
+  },
+  {
+    "matric": "272",
+    "nom": "Henin",
+    "prenom": "Thomas",
+    "login": "thomas.henin@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5374.JPG"
+  },
+  {
+    "matric": "273",
+    "nom": "Hens",
+    "prenom": "Alicia",
+    "login": "alicia.hens@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5180.JPG"
+  },
+  {
+    "matric": "274",
+    "nom": "Herbaut",
+    "prenom": "Gaston",
+    "login": "gaston.herbaut@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4792.JPG"
+  },
+  {
+    "matric": "275",
+    "nom": "Herbecq",
+    "prenom": "Ivan",
+    "login": "ivan.herbecq@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5375.JPG"
+  },
+  {
+    "matric": "276",
+    "nom": "Hermand",
+    "prenom": "Samuel",
+    "login": "samuel.hermand@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4768.JPG"
+  },
+  {
+    "matric": "277",
+    "nom": "Hird",
+    "prenom": "Aslihan",
+    "login": "aslihan.hird@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/5282.JPG"
+  },
+  {
+    "matric": "278",
+    "nom": "Hiriart",
+    "prenom": "Lili",
+    "login": "lili.hiriart@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5181.JPG"
+  },
+  {
+    "matric": "279",
+    "nom": "Hodor",
+    "prenom": "Elena",
+    "login": "elena.hodor@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4979.JPG"
+  },
+  {
+    "matric": "280",
+    "nom": "Honorez",
+    "prenom": "Auguste",
+    "login": "auguste.honorez@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4842.JPG"
+  },
+  {
+    "matric": "281",
+    "nom": "Hospied",
+    "prenom": "Sirine",
+    "login": "sirine.hospied@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5182.JPG"
+  },
+  {
+    "matric": "282",
+    "nom": "Hulute",
+    "prenom": "Samuel",
+    "login": "samuel.hulute@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5377.JPG"
+  },
+  {
+    "matric": "283",
+    "nom": "Humblet",
+    "prenom": "Aline",
+    "login": "aline.humblet@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5183.JPG"
+  },
+  {
+    "matric": "284",
+    "nom": "Husson",
+    "prenom": "Maxime",
+    "login": "maxime.husson@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5379.JPG"
+  },
+  {
+    "matric": "285",
+    "nom": "Indeko Loleke",
+    "prenom": "Marie",
+    "login": "marie.indekololeke@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4741.JPG"
+  },
+  {
+    "matric": "286",
+    "nom": "Isabella Valenzi",
+    "prenom": "Toni",
+    "login": "toni.isabellavalenzi@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/278.JPG"
+  },
+  {
+    "matric": "287",
+    "nom": "Jacobs",
+    "prenom": "Hubert",
+    "login": "hubert.jacobs@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5185.JPG"
+  },
+  {
+    "matric": "288",
+    "nom": "Jacquemin",
+    "prenom": "Steeven",
+    "login": "steeven.jacquemin@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/280.JPG"
+  },
+  {
+    "matric": "289",
+    "nom": "Jacquemin",
+    "prenom": "Lucas",
+    "login": "lucas.jacquemin@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5062.JPG"
+  },
+  {
+    "matric": "290",
+    "nom": "Jans",
+    "prenom": "Nicolas",
+    "login": "nicolas.jans@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5276.JPG"
+  },
+  {
+    "matric": "291",
+    "nom": "Jans",
+    "prenom": "Milo",
+    "login": "milo.jans@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5380.JPG"
+  },
+  {
+    "matric": "292",
+    "nom": "Jares Alves Eça De Queiroz Fra",
+    "prenom": "Mafalda",
+    "login": "mafalda.jaresalvesecadequeirozfra@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/287.JPG"
+  },
+  {
+    "matric": "293",
+    "nom": "Jassogne",
+    "prenom": "Pierre",
+    "login": "pierre.jassogne@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/4980.JPG"
+  },
+  {
+    "matric": "294",
+    "nom": "Jaubert",
+    "prenom": "Alexia",
+    "login": "alexia.jaubert@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5187.JPG"
+  },
+  {
+    "matric": "295",
+    "nom": "Jauniaux",
+    "prenom": "Paul",
+    "login": "paul.jauniaux@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/676.JPG"
+  },
+  {
+    "matric": "296",
+    "nom": "Jawitz",
+    "prenom": "Talia",
+    "login": "talia.jawitz@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/288.JPG"
+  },
+  {
+    "matric": "297",
+    "nom": "Jeanjean",
+    "prenom": "Louis-Arthur",
+    "login": "louisarthur.jeanjean@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4844.JPG"
+  },
+  {
+    "matric": "298",
+    "nom": "Jebbour",
+    "prenom": "Mouad",
+    "login": "mouad.jebbour@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5188.JPG"
+  },
+  {
+    "matric": "299",
+    "nom": "Jeuniaux",
+    "prenom": "Martin",
+    "login": "martin.jeuniaux@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5382.JPG"
+  },
+  {
+    "matric": "300",
+    "nom": "Joachim",
+    "prenom": "Bastien",
+    "login": "bastien.joachim@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5190.JPG"
+  },
+  {
+    "matric": "301",
+    "nom": "Joachim",
+    "prenom": "Arno",
+    "login": "arno.joachim@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5189.JPG"
+  },
+  {
+    "matric": "302",
+    "nom": "Joie",
+    "prenom": "Félix",
+    "login": "felix.joie@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4981.JPG"
+  },
+  {
+    "matric": "303",
+    "nom": "Jonval",
+    "prenom": "Tom",
+    "login": "tom.jonval@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4982.JPG"
+  },
+  {
+    "matric": "304",
+    "nom": "Kadaifçioglu",
+    "prenom": "Martin",
+    "login": "martin.kadaifcioglu@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5191.JPG"
+  },
+  {
+    "matric": "305",
+    "nom": "Kaddour",
+    "prenom": "Raphaël",
+    "login": "raphael.kaddour@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5063.JPG"
+  },
+  {
+    "matric": "306",
+    "nom": "Kaliyeva",
+    "prenom": "Sofia",
+    "login": "sofia.kaliyeva@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5064.JPG"
+  },
+  {
+    "matric": "307",
+    "nom": "Karier",
+    "prenom": "Joey",
+    "login": "joey.karier@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5192.JPG"
+  },
+  {
+    "matric": "308",
+    "nom": "Kempeneers",
+    "prenom": "Louis",
+    "login": "louis.kempeneers@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/679.JPG"
+  },
+  {
+    "matric": "309",
+    "nom": "Kenarov",
+    "prenom": "Ivaylo",
+    "login": "ivaylo.kenarov@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5193.JPG"
+  },
+  {
+    "matric": "310",
+    "nom": "Kervyn De Meerendre",
+    "prenom": "Loup",
+    "login": "loup.kervyndemeerendre@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/4983.JPG"
+  },
+  {
+    "matric": "311",
+    "nom": "Ketels",
+    "prenom": "Axel",
+    "login": "axel.ketels@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4984.JPG"
+  },
+  {
+    "matric": "312",
+    "nom": "Khalaf",
+    "prenom": "Carine",
+    "login": "carine.khalaf@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/5469.JPG"
+  },
+  {
+    "matric": "313",
+    "nom": "Khamana bantu",
+    "prenom": "Manassé",
+    "login": "manasse.khamanabantu@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5194.JPG"
+  },
+  {
+    "matric": "314",
+    "nom": "Kikena",
+    "prenom": "Stéphane",
+    "login": "stephane.kikena@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5065.JPG"
+  },
+  {
+    "matric": "315",
+    "nom": "Knaepen",
+    "prenom": "Maxime",
+    "login": "maxime.knaepen@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5383.JPG"
+  },
+  {
+    "matric": "316",
+    "nom": "Knittel",
+    "prenom": "Margaux",
+    "login": "margaux.knittel@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/680.JPG"
+  },
+  {
+    "matric": "317",
+    "nom": "Koltsov",
+    "prenom": "Ruslan",
+    "login": "ruslan.koltsov@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5384.JPG"
+  },
+  {
+    "matric": "318",
+    "nom": "Krawczyk",
+    "prenom": "Simon",
+    "login": "simon.krawczyk@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5195.JPG"
+  },
+  {
+    "matric": "319",
+    "nom": "L'helgoual'ch",
+    "prenom": "Alex",
+    "login": "alex.lhelgoualch@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5389.JPG"
+  },
+  {
+    "matric": "320",
+    "nom": "Lack",
+    "prenom": "Edouard",
+    "login": "edouard.lack@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5277.JPG"
+  },
+  {
+    "matric": "321",
+    "nom": "Laffineur",
+    "prenom": "Ashton",
+    "login": "ashton.laffineur@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4742.JPG"
+  },
+  {
+    "matric": "322",
+    "nom": "Lambermont",
+    "prenom": "Théo",
+    "login": "theo.lambermont@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4986.JPG"
+  },
+  {
+    "matric": "323",
+    "nom": "Lapierre",
+    "prenom": "Julia",
+    "login": "julia.lapierre@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5066.JPG"
+  },
+  {
+    "matric": "324",
+    "nom": "Lariviere",
+    "prenom": "Lucien",
+    "login": "lucien.lariviere@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5385.JPG"
+  },
+  {
+    "matric": "325",
+    "nom": "Larsy",
+    "prenom": "François-Xavier",
+    "login": "francoisxavier.larsy@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5067.JPG"
+  },
+  {
+    "matric": "326",
+    "nom": "Lasker",
+    "prenom": "Sarah",
+    "login": "sarah.lasker@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5386.JPG"
+  },
+  {
+    "matric": "327",
+    "nom": "Latteur",
+    "prenom": "Paul",
+    "login": "paul.latteur@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5387.JPG"
+  },
+  {
+    "matric": "328",
+    "nom": "Laveix",
+    "prenom": "Hippolyte",
+    "login": "hippolyte.laveix@etu.iad-arts.be",
+    "classe": "CIRF1M",
+    "photo": "PROECO_PHOTO/4847.JPG"
+  },
+  {
+    "matric": "329",
+    "nom": "Lavend'homme",
+    "prenom": "Thomas",
+    "login": "thomas.lavendhomme@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/683.JPG"
+  },
+  {
+    "matric": "330",
+    "nom": "Le Dourner",
+    "prenom": "Gaspard",
+    "login": "gaspard.ledourner@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/324.JPG"
+  },
+  {
+    "matric": "331",
+    "nom": "Lebrun",
+    "prenom": "Alexia",
+    "login": "alexia.lebrun@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/327.JPG"
+  },
+  {
+    "matric": "332",
+    "nom": "Lebrun",
+    "prenom": "Adrien",
+    "login": "adrien.lebrun@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4987.JPG"
+  },
+  {
+    "matric": "333",
+    "nom": "Lechaptois",
+    "prenom": "Santiago",
+    "login": "santiago.lechaptois@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4769.JPG"
+  },
+  {
+    "matric": "334",
+    "nom": "Lecourt",
+    "prenom": "Marion",
+    "login": "marion.lecourt@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5388.JPG"
+  },
+  {
+    "matric": "335",
+    "nom": "Legendre-Lemaire",
+    "prenom": "Lara",
+    "login": "lara.legendrelemaire@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4988.JPG"
+  },
+  {
+    "matric": "336",
+    "nom": "Legrain",
+    "prenom": "Valentin",
+    "login": "valentin.legrain@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5196.JPG"
+  },
+  {
+    "matric": "337",
+    "nom": "Lehembre",
+    "prenom": "Simon",
+    "login": "simon.lehembre@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5197.JPG"
+  },
+  {
+    "matric": "338",
+    "nom": "Lehmann",
+    "prenom": "Maxime",
+    "login": "maxime.lehmann@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5198.JPG"
+  },
+  {
+    "matric": "339",
+    "nom": "Leloup",
+    "prenom": "Lila",
+    "login": "lila.leloup@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4743.JPG"
+  },
+  {
+    "matric": "340",
+    "nom": "Leloup",
+    "prenom": "Elina",
+    "login": "elina.leloup@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5070.JPG"
+  },
+  {
+    "matric": "341",
+    "nom": "Lemaire",
+    "prenom": "Guillen",
+    "login": "guillen.lemaire@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4794.JPG"
+  },
+  {
+    "matric": "342",
+    "nom": "Lemaitre",
+    "prenom": "Blanche",
+    "login": "blanche.lemaitre@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5199.JPG"
+  },
+  {
+    "matric": "343",
+    "nom": "Lenotti",
+    "prenom": "Flavio",
+    "login": "flavio.lenotti@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5200.JPG"
+  },
+  {
+    "matric": "344",
+    "nom": "Lepers",
+    "prenom": "Thiméon",
+    "login": "thimeon.lepers@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4770.JPG"
+  },
+  {
+    "matric": "345",
+    "nom": "Lequy",
+    "prenom": "Matthieu",
+    "login": "matthieu.lequy@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4815.JPG"
+  },
+  {
+    "matric": "346",
+    "nom": "Leroy",
+    "prenom": "Jean",
+    "login": "jean.leroy@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4744.JPG"
+  },
+  {
+    "matric": "347",
+    "nom": "Levie",
+    "prenom": "Alinoë",
+    "login": "alinoe.levie@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5201.JPG"
+  },
+  {
+    "matric": "348",
+    "nom": "Lienard",
+    "prenom": "Dorian",
+    "login": "dorian.lienard@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5202.JPG"
+  },
+  {
+    "matric": "349",
+    "nom": "Lini",
+    "prenom": "Corentin",
+    "login": "corentin.lini@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5391.JPG"
+  },
+  {
+    "matric": "350",
+    "nom": "Lion",
+    "prenom": "Guillaume",
+    "login": "guillaume.lion@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/4895.JPG"
+  },
+  {
+    "matric": "351",
+    "nom": "Lion",
+    "prenom": "Antoine",
+    "login": "antoine.lion@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5393.JPG"
+  },
+  {
+    "matric": "352",
+    "nom": "Lisart",
+    "prenom": "Simon",
+    "login": "simon.lisart@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4990.JPG"
+  },
+  {
+    "matric": "353",
+    "nom": "Liénard quettier",
+    "prenom": "Justin",
+    "login": "justin.lienardquettier@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5390.JPG"
+  },
+  {
+    "matric": "354",
+    "nom": "Lobo Bebel Kabongo",
+    "prenom": "Alexia",
+    "login": "alexia.lobobebelkabongo@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4745.JPG"
+  },
+  {
+    "matric": "355",
+    "nom": "Longree",
+    "prenom": "Victor",
+    "login": "victor.longree@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5203.JPG"
+  },
+  {
+    "matric": "356",
+    "nom": "Lonnet",
+    "prenom": "Elise",
+    "login": "elise.lonnet@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5072.JPG"
+  },
+  {
+    "matric": "357",
+    "nom": "Lorenc",
+    "prenom": "Samuel",
+    "login": "samuel.lorenc@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5394.JPG"
+  },
+  {
+    "matric": "358",
+    "nom": "Lousberg",
+    "prenom": "Sean",
+    "login": "sean.lousberg@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/4849.JPG"
+  },
+  {
+    "matric": "359",
+    "nom": "Lowy",
+    "prenom": "Eyal",
+    "login": "eyal.lowy@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5395.JPG"
+  },
+  {
+    "matric": "360",
+    "nom": "Lupianez",
+    "prenom": "Théo",
+    "login": "theo.lupianez@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/4991.JPG"
+  },
+  {
+    "matric": "361",
+    "nom": "Luyckx",
+    "prenom": "Marie",
+    "login": "marie.luyckx@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4795.JPG"
+  },
+  {
+    "matric": "362",
+    "nom": "Maes",
+    "prenom": "Florian",
+    "login": "florian.maes@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4992.JPG"
+  },
+  {
+    "matric": "363",
+    "nom": "Magotteaux",
+    "prenom": "Lucas",
+    "login": "lucas.magotteaux@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/694.JPG"
+  },
+  {
+    "matric": "364",
+    "nom": "Maillard",
+    "prenom": "Hannah",
+    "login": "hannah.maillard@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5204.JPG"
+  },
+  {
+    "matric": "365",
+    "nom": "Maizel",
+    "prenom": "Elie",
+    "login": "elie.maizel@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5278.JPG"
+  },
+  {
+    "matric": "366",
+    "nom": "Malaise",
+    "prenom": "Léo",
+    "login": "leo.malaise@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5396.JPG"
+  },
+  {
+    "matric": "367",
+    "nom": "Malerbe Deram",
+    "prenom": "Samuel",
+    "login": "samuel.malerbederam@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5205.JPG"
+  },
+  {
+    "matric": "368",
+    "nom": "Malidin",
+    "prenom": "Hugo",
+    "login": "hugo.malidin@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4771.JPG"
+  },
+  {
+    "matric": "369",
+    "nom": "Mancino",
+    "prenom": "Valentin",
+    "login": "valentin.mancino@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/696.JPG"
+  },
+  {
+    "matric": "370",
+    "nom": "Mangiacavalli",
+    "prenom": "Aixa",
+    "login": "aixa.mangiacavalli@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4772.JPG"
+  },
+  {
+    "matric": "371",
+    "nom": "Mansion",
+    "prenom": "Benjamin",
+    "login": "benjamin.mansion@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5208.JPG"
+  },
+  {
+    "matric": "372",
+    "nom": "Mansion",
+    "prenom": "Sylvain",
+    "login": "sylvain.mansion@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4773.JPG"
+  },
+  {
+    "matric": "373",
+    "nom": "Many",
+    "prenom": "Mathilde",
+    "login": "mathilde.many@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5073.JPG"
+  },
+  {
+    "matric": "374",
+    "nom": "Marbot",
+    "prenom": "Ilona",
+    "login": "ilona.marbot@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5209.JPG"
+  },
+  {
+    "matric": "375",
+    "nom": "Marredda",
+    "prenom": "Noa",
+    "login": "noa.marredda@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5211.JPG"
+  },
+  {
+    "matric": "376",
+    "nom": "Masgutov",
+    "prenom": "Alexandre",
+    "login": "alexandre.masgutov@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5212.JPG"
+  },
+  {
+    "matric": "377",
+    "nom": "Mathieu",
+    "prenom": "Anthony",
+    "login": "anthony.mathieu@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5213.JPG"
+  },
+  {
+    "matric": "378",
+    "nom": "Mattei",
+    "prenom": "Gabriele",
+    "login": "gabriele.mattei@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5397.JPG"
+  },
+  {
+    "matric": "379",
+    "nom": "Maucour",
+    "prenom": "Jérémy",
+    "login": "jeremy.maucour@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/363.JPG"
+  },
+  {
+    "matric": "380",
+    "nom": "Mc Lafferty",
+    "prenom": "Aisleen",
+    "login": "aisleen.mclafferty@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4747.JPG"
+  },
+  {
+    "matric": "381",
+    "nom": "Mekki",
+    "prenom": "Wassim",
+    "login": "wassim.mekki@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5214.JPG"
+  },
+  {
+    "matric": "382",
+    "nom": "Mellé",
+    "prenom": "Lilia",
+    "login": "lilia.melle@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5075.JPG"
+  },
+  {
+    "matric": "383",
+    "nom": "Mercier",
+    "prenom": "Mathias",
+    "login": "mathias.mercier@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5216.JPG"
+  },
+  {
+    "matric": "384",
+    "nom": "Michel",
+    "prenom": "Théo",
+    "login": "theo.michel@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5217.JPG"
+  },
+  {
+    "matric": "385",
+    "nom": "Michelet",
+    "prenom": "Noé",
+    "login": "noe.michelet@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4995.JPG"
+  },
+  {
+    "matric": "386",
+    "nom": "Michiels",
+    "prenom": "Alexandre",
+    "login": "alexandre.michiels@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/4776.JPG"
+  },
+  {
+    "matric": "387",
+    "nom": "Millerioux",
+    "prenom": "Lou",
+    "login": "lou.millerioux@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5398.JPG"
+  },
+  {
+    "matric": "388",
+    "nom": "Mingers",
+    "prenom": "Zoé",
+    "login": "zoe.mingers@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5399.JPG"
+  },
+  {
+    "matric": "389",
+    "nom": "Mirco",
+    "prenom": "Florian",
+    "login": "florian.mirco@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5218.JPG"
+  },
+  {
+    "matric": "390",
+    "nom": "Mokosinski",
+    "prenom": "Shen",
+    "login": "shen.mokosinski@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5400.JPG"
+  },
+  {
+    "matric": "391",
+    "nom": "Monin",
+    "prenom": "Zoé",
+    "login": "zoe.monin@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5219.JPG"
+  },
+  {
+    "matric": "392",
+    "nom": "Montagna",
+    "prenom": "Tom",
+    "login": "tom.montagna@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5220.JPG"
+  },
+  {
+    "matric": "393",
+    "nom": "Montel",
+    "prenom": "Marwan",
+    "login": "marwan.montel@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4998.JPG"
+  },
+  {
+    "matric": "394",
+    "nom": "Moratto",
+    "prenom": "Sébastien",
+    "login": "sebastien.moratto@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5401.JPG"
+  },
+  {
+    "matric": "395",
+    "nom": "Mostade",
+    "prenom": "Margaux",
+    "login": "margaux.mostade@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/4999.JPG"
+  },
+  {
+    "matric": "396",
+    "nom": "Moulart",
+    "prenom": "François",
+    "login": "francois.moulart@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/707.JPG"
+  },
+  {
+    "matric": "397",
+    "nom": "Moulin",
+    "prenom": "Maël",
+    "login": "mael.moulin@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4898.JPG"
+  },
+  {
+    "matric": "398",
+    "nom": "Moulin",
+    "prenom": "Yann",
+    "login": "yann.moulin@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5402.JPG"
+  },
+  {
+    "matric": "399",
+    "nom": "Moulin",
+    "prenom": "Nicolas",
+    "login": "nicolas.moulin@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5279.JPG"
+  },
+  {
+    "matric": "400",
+    "nom": "Mourad",
+    "prenom": "Katrine",
+    "login": "katrine.mourad@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5221.JPG"
+  },
+  {
+    "matric": "401",
+    "nom": "Mouz",
+    "prenom": "Philémon",
+    "login": "philemon.mouz@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/708.JPG"
+  },
+  {
+    "matric": "402",
+    "nom": "Muller",
+    "prenom": "Louis",
+    "login": "louis.muller@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/710.JPG"
+  },
+  {
+    "matric": "403",
+    "nom": "Mullier",
+    "prenom": "Malou",
+    "login": "malou.mullier@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5222.JPG"
+  },
+  {
+    "matric": "404",
+    "nom": "Mwiny-ally",
+    "prenom": "Jérémie",
+    "login": "jeremie.mwinyally@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5404.JPG"
+  },
+  {
+    "matric": "405",
+    "nom": "Navez",
+    "prenom": "Maxime",
+    "login": "maxime.navez@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5405.JPG"
+  },
+  {
+    "matric": "406",
+    "nom": "Neefs",
+    "prenom": "Félicien",
+    "login": "felicien.neefs@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/5000.JPG"
+  },
+  {
+    "matric": "407",
+    "nom": "Neus",
+    "prenom": "Nathan",
+    "login": "nathan.neus@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5406.JPG"
+  },
+  {
+    "matric": "408",
+    "nom": "Noyon",
+    "prenom": "Jérémy",
+    "login": "jeremy.noyon@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5225.JPG"
+  },
+  {
+    "matric": "409",
+    "nom": "Ognyanov",
+    "prenom": "Petko",
+    "login": "petko.ognyanov@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5226.JPG"
+  },
+  {
+    "matric": "410",
+    "nom": "Ouwerx José de Melo",
+    "prenom": "Baltazar",
+    "login": "baltazar.ouwerxjosedemello@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5079.JPG"
+  },
+  {
+    "matric": "411",
+    "nom": "Pasha",
+    "prenom": "Dilawar",
+    "login": "dilawar.pasha@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5410.JPG"
+  },
+  {
+    "matric": "412",
+    "nom": "Pauwels",
+    "prenom": "Zoé",
+    "login": "zoe.pauwels@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5080.JPG"
+  },
+  {
+    "matric": "413",
+    "nom": "Pelletier",
+    "prenom": "Baptiste",
+    "login": "baptiste.pelletier@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4777.JPG"
+  },
+  {
+    "matric": "414",
+    "nom": "Perrin",
+    "prenom": "Zoé",
+    "login": "zoe.perrin@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5081.JPG"
+  },
+  {
+    "matric": "415",
+    "nom": "Petit",
+    "prenom": "Antoine",
+    "login": "antoine.petit@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/411.JPG"
+  },
+  {
+    "matric": "416",
+    "nom": "Petit",
+    "prenom": "Stephan",
+    "login": "stephan.petit@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5412.JPG"
+  },
+  {
+    "matric": "417",
+    "nom": "Petitpain",
+    "prenom": "Pierre-Gilles",
+    "login": "pierregilles.petitpain@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/4900.JPG"
+  },
+  {
+    "matric": "418",
+    "nom": "Philippart",
+    "prenom": "Milan",
+    "login": "milan.philippart@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5229.JPG"
+  },
+  {
+    "matric": "419",
+    "nom": "Piel",
+    "prenom": "Louis",
+    "login": "louis.piel@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5413.JPG"
+  },
+  {
+    "matric": "420",
+    "nom": "Pieron",
+    "prenom": "Charlie",
+    "login": "charlie.pieron@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5230.JPG"
+  },
+  {
+    "matric": "421",
+    "nom": "Pirard",
+    "prenom": "Nina",
+    "login": "nina.pirard@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5231.JPG"
+  },
+  {
+    "matric": "422",
+    "nom": "Pirson",
+    "prenom": "Coline",
+    "login": "coline.pirson@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/4750.JPG"
+  },
+  {
+    "matric": "423",
+    "nom": "Pizzirani",
+    "prenom": "Juliette",
+    "login": "juliette.pizzirani@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/5004.JPG"
+  },
+  {
+    "matric": "424",
+    "nom": "Plisnier",
+    "prenom": "Zoé",
+    "login": "zoe.plisnier@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/5005.JPG"
+  },
+  {
+    "matric": "425",
+    "nom": "Poelmans",
+    "prenom": "Ophélie",
+    "login": "ophelie.poelmans@etu.iad-arts.be",
+    "classe": "CIPAM",
+    "photo": "PROECO_PHOTO/419.JPG"
+  },
+  {
+    "matric": "426",
+    "nom": "Poite",
+    "prenom": "Tristan",
+    "login": "tristan.poite@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5232.JPG"
+  },
+  {
+    "matric": "427",
+    "nom": "Pongo okako",
+    "prenom": "Frank",
+    "login": "frank.pongookako@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5415.JPG"
+  },
+  {
+    "matric": "428",
+    "nom": "Ponsich",
+    "prenom": "Gérard",
+    "login": "gerard.ponsich@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5233.JPG"
+  },
+  {
+    "matric": "429",
+    "nom": "Portevin",
+    "prenom": "Molly",
+    "login": "molly.portevin@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5416.JPG"
+  },
+  {
+    "matric": "430",
+    "nom": "Portner",
+    "prenom": "Agathe",
+    "login": "agathe.portner@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5086.JPG"
+  },
+  {
+    "matric": "431",
+    "nom": "Pouchoulou",
+    "prenom": "Antoine",
+    "login": "antoine.pouchoulou@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5006.JPG"
+  },
+  {
+    "matric": "432",
+    "nom": "Pousset",
+    "prenom": "Nicolas",
+    "login": "nicolas.pousset@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5234.JPG"
+  },
+  {
+    "matric": "433",
+    "nom": "Pozza",
+    "prenom": "Pablo",
+    "login": "pablo.pozza@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/5007.JPG"
+  },
+  {
+    "matric": "434",
+    "nom": "Prignon",
+    "prenom": "Kolya",
+    "login": "kolya.prignon@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5417.JPG"
+  },
+  {
+    "matric": "435",
+    "nom": "Pujols",
+    "prenom": "Jane",
+    "login": "jane.pujols@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5418.JPG"
+  },
+  {
+    "matric": "436",
+    "nom": "Pyfferoen",
+    "prenom": "Killian",
+    "login": "killian.pyfferoen@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/5008.JPG"
+  },
+  {
+    "matric": "437",
+    "nom": "Pégalajar",
+    "prenom": "Valério",
+    "login": "valerio.pegalajar@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5411.JPG"
+  },
+  {
+    "matric": "438",
+    "nom": "Raoux",
+    "prenom": "Romain",
+    "login": "romain.raoux@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5235.JPG"
+  },
+  {
+    "matric": "439",
+    "nom": "Raxhon",
+    "prenom": "Barnabé",
+    "login": "barnabe.raxhon@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5419.JPG"
+  },
+  {
+    "matric": "440",
+    "nom": "Reboh",
+    "prenom": "Joséphine",
+    "login": "josephine.reboh@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5237.JPG"
+  },
+  {
+    "matric": "441",
+    "nom": "Reculez",
+    "prenom": "Arthur",
+    "login": "arthur.reculez@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5420.JPG"
+  },
+  {
+    "matric": "442",
+    "nom": "Reddmann",
+    "prenom": "Leïla",
+    "login": "leila.reddmann@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/5009.JPG"
+  },
+  {
+    "matric": "443",
+    "nom": "Reix",
+    "prenom": "David",
+    "login": "david.reix@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5087.JPG"
+  },
+  {
+    "matric": "444",
+    "nom": "Renders",
+    "prenom": "Gustave",
+    "login": "gustave.renders@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5421.JPG"
+  },
+  {
+    "matric": "445",
+    "nom": "Richez",
+    "prenom": "Alexandre",
+    "login": "alexandre.richez@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5240.JPG"
+  },
+  {
+    "matric": "446",
+    "nom": "Robillard",
+    "prenom": "Robin",
+    "login": "robin.robillard@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/737.JPG"
+  },
+  {
+    "matric": "447",
+    "nom": "Rochet",
+    "prenom": "Sarah",
+    "login": "sarah.rochet@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/738.JPG"
+  },
+  {
+    "matric": "448",
+    "nom": "Rodrique",
+    "prenom": "Fanny",
+    "login": "fanny.rodrique@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5422.JPG"
+  },
+  {
+    "matric": "449",
+    "nom": "Roland",
+    "prenom": "Zoé",
+    "login": "zoe.roland@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/5011.JPG"
+  },
+  {
+    "matric": "450",
+    "nom": "Romainville",
+    "prenom": "Thomas",
+    "login": "thomas.romainville@etu.iad-arts.be",
+    "classe": "CIPAM",
+    "photo": "PROECO_PHOTO/5473.JPG"
+  },
+  {
+    "matric": "451",
+    "nom": "Romano",
+    "prenom": "Flora",
+    "login": "flora.romano@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/5012.JPG"
+  },
+  {
+    "matric": "452",
+    "nom": "Rondiat",
+    "prenom": "Matis",
+    "login": "matis.rondiat@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4797.JPG"
+  },
+  {
+    "matric": "453",
+    "nom": "Rosiers",
+    "prenom": "Thibault",
+    "login": "thibault.rosiers@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5242.JPG"
+  },
+  {
+    "matric": "454",
+    "nom": "Rougeron",
+    "prenom": "Julian",
+    "login": "julian.rougeron@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5243.JPG"
+  },
+  {
+    "matric": "455",
+    "nom": "Rousseau",
+    "prenom": "Baptiste",
+    "login": "baptiste.rousseau@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5244.JPG"
+  },
+  {
+    "matric": "456",
+    "nom": "Rousselle",
+    "prenom": "Maxime",
+    "login": "maxime.rousselle@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4903.JPG"
+  },
+  {
+    "matric": "457",
+    "nom": "Routisseau",
+    "prenom": "Noé",
+    "login": "noe.routisseau@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/5466.JPG"
+  },
+  {
+    "matric": "458",
+    "nom": "Rumou",
+    "prenom": "Omar",
+    "login": "omar.rumou@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5014.JPG"
+  },
+  {
+    "matric": "459",
+    "nom": "Rutsaert",
+    "prenom": "Maxime",
+    "login": "maxime.rutsaert@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/444.JPG"
+  },
+  {
+    "matric": "460",
+    "nom": "Ryckaert",
+    "prenom": "Marie",
+    "login": "marie.ryckaert@etu.iad-arts.be",
+    "classe": "CIRS2M",
+    "photo": "PROECO_PHOTO/445.JPG"
+  },
+  {
+    "matric": "461",
+    "nom": "Ryngaert",
+    "prenom": "Mila",
+    "login": "mila.ryngaert@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5088.JPG"
+  },
+  {
+    "matric": "462",
+    "nom": "Réveillaud",
+    "prenom": "Théo",
+    "login": "theo.reveillaud@etu.iad-arts.be",
+    "classe": "ID1AM",
+    "photo": "PROECO_PHOTO/4752.JPG"
+  },
+  {
+    "matric": "463",
+    "nom": "Sabbi",
+    "prenom": "Luca",
+    "login": "luca.sabbi@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5423.JPG"
+  },
+  {
+    "matric": "464",
+    "nom": "Sagne",
+    "prenom": "Thea",
+    "login": "thea.sagne@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5424.JPG"
+  },
+  {
+    "matric": "465",
+    "nom": "Salvatore",
+    "prenom": "Julien",
+    "login": "julien.salvatore@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5426.JPG"
+  },
+  {
+    "matric": "466",
+    "nom": "Samyn",
+    "prenom": "Coralie",
+    "login": "coralie.samyn@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5427.JPG"
+  },
+  {
+    "matric": "467",
+    "nom": "Sanders",
+    "prenom": "Simon",
+    "login": "simon.sanders@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4904.JPG"
+  },
+  {
+    "matric": "468",
+    "nom": "Sanderson",
+    "prenom": "William",
+    "login": "william.sanderson@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5016.JPG"
+  },
+  {
+    "matric": "469",
+    "nom": "Sandoz",
+    "prenom": "Esteban",
+    "login": "esteban.sandoz@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5429.JPG"
+  },
+  {
+    "matric": "470",
+    "nom": "Sanner",
+    "prenom": "Rafael",
+    "login": "rafael.sanner@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5245.JPG"
+  },
+  {
+    "matric": "471",
+    "nom": "Santamaria",
+    "prenom": "Matteo",
+    "login": "matteo.santamaria@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5431.JPG"
+  },
+  {
+    "matric": "472",
+    "nom": "Sayez",
+    "prenom": "Emily-Yu",
+    "login": "emilyyu.sayez@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5432.JPG"
+  },
+  {
+    "matric": "473",
+    "nom": "Schlirf",
+    "prenom": "Athina",
+    "login": "athina.schlirf@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5246.JPG"
+  },
+  {
+    "matric": "474",
+    "nom": "Schools",
+    "prenom": "Arthur",
+    "login": "arthur.schools@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5247.JPG"
+  },
+  {
+    "matric": "475",
+    "nom": "Schouters",
+    "prenom": "Thibault",
+    "login": "thibault.schouters@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/455.JPG"
+  },
+  {
+    "matric": "476",
+    "nom": "Schroeder chaidron",
+    "prenom": "Igor",
+    "login": "igor.schroederchaidron@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5248.JPG"
+  },
+  {
+    "matric": "477",
+    "nom": "Scrivner",
+    "prenom": "Victoria",
+    "login": "victoria.scrivner@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5249.JPG"
+  },
+  {
+    "matric": "478",
+    "nom": "Sean",
+    "prenom": "Yumi",
+    "login": "yumi.sean@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5433.JPG"
+  },
+  {
+    "matric": "479",
+    "nom": "Seguin",
+    "prenom": "Olivia",
+    "login": "olivia.seguin@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5434.JPG"
+  },
+  {
+    "matric": "480",
+    "nom": "Sekerci",
+    "prenom": "Arda",
+    "login": "arda.sekerci@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5435.JPG"
+  },
+  {
+    "matric": "481",
+    "nom": "Servais",
+    "prenom": "Constantin",
+    "login": "constantin.servais@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5436.JPG"
+  },
+  {
+    "matric": "482",
+    "nom": "Seven",
+    "prenom": "Téo",
+    "login": "teo.seven@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5438.JPG"
+  },
+  {
+    "matric": "483",
+    "nom": "Shigardelashvili",
+    "prenom": "Tornike",
+    "login": "tornike.shigardelashvili@etu.iad-arts.be",
+    "classe": "MM1B",
+    "photo": "PROECO_PHOTO/5439.JPG"
+  },
+  {
+    "matric": "484",
+    "nom": "Sion",
+    "prenom": "Pierre",
+    "login": "pierre.sion@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5441.JPG"
+  },
+  {
+    "matric": "485",
+    "nom": "Smeets",
+    "prenom": "Lucie",
+    "login": "lucie.smeets@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5250.JPG"
+  },
+  {
+    "matric": "486",
+    "nom": "Smeyers",
+    "prenom": "Tomas",
+    "login": "tomas.smeyers@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5251.JPG"
+  },
+  {
+    "matric": "487",
+    "nom": "Souchaud",
+    "prenom": "Noé",
+    "login": "noe.souchaud@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4779.JPG"
+  },
+  {
+    "matric": "488",
+    "nom": "Spinnael",
+    "prenom": "Arnaud",
+    "login": "arnaud.spinnael@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5253.JPG"
+  },
+  {
+    "matric": "489",
+    "nom": "Spinoy",
+    "prenom": "Alexis",
+    "login": "alexis.spinoy@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/794.JPG"
+  },
+  {
+    "matric": "490",
+    "nom": "Stanus",
+    "prenom": "Brice",
+    "login": "brice.stanus@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/5019.JPG"
+  },
+  {
+    "matric": "491",
+    "nom": "Stavaux",
+    "prenom": "Remy",
+    "login": "remy.stavaux@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5254.JPG"
+  },
+  {
+    "matric": "492",
+    "nom": "Steenbeke",
+    "prenom": "Zoé-Lise",
+    "login": "zoelise.steenbeke@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5091.JPG"
+  },
+  {
+    "matric": "493",
+    "nom": "Stillemans",
+    "prenom": "Sasha",
+    "login": "sasha.stillemans@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5442.JPG"
+  },
+  {
+    "matric": "494",
+    "nom": "Syskova",
+    "prenom": "Alexandra",
+    "login": "alexandra.syskova@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5280.JPG"
+  },
+  {
+    "matric": "495",
+    "nom": "Szafarz",
+    "prenom": "Léon",
+    "login": "leon.szafarz@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5255.JPG"
+  },
+  {
+    "matric": "496",
+    "nom": "TEST",
+    "prenom": "Test",
+    "login": "test.test@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5491.JPG"
+  },
+  {
+    "matric": "497",
+    "nom": "Taburiaux",
+    "prenom": "Hugo",
+    "login": "hugo.taburiaux@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4798.JPG"
+  },
+  {
+    "matric": "498",
+    "nom": "Talabard",
+    "prenom": "Juliette",
+    "login": "juliette.talabard@etu.iad-arts.be",
+    "classe": "CIAAM",
+    "photo": "PROECO_PHOTO/5471.JPG"
+  },
+  {
+    "matric": "499",
+    "nom": "Tchoubaev",
+    "prenom": "Sonia",
+    "login": "sonia.tchoubaev@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5257.JPG"
+  },
+  {
+    "matric": "500",
+    "nom": "Tebar",
+    "prenom": "Clément",
+    "login": "clement.tebar@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/4821.JPG"
+  },
+  {
+    "matric": "501",
+    "nom": "Tenaille D'Estais",
+    "prenom": "Séverin",
+    "login": "severin.destais@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/4955.JPG"
+  },
+  {
+    "matric": "502",
+    "nom": "Testa",
+    "prenom": "Thomas",
+    "login": "thomas.testa@etu.iad-arts.be",
+    "classe": "RTSAM",
+    "photo": "PROECO_PHOTO/4906.JPG"
+  },
+  {
+    "matric": "503",
+    "nom": "Therasse",
+    "prenom": "Julien",
+    "login": "julien.therasse@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5258.JPG"
+  },
+  {
+    "matric": "504",
+    "nom": "Thijs",
+    "prenom": "Océane",
+    "login": "oceane.thijs@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5259.JPG"
+  },
+  {
+    "matric": "505",
+    "nom": "Thiry",
+    "prenom": "Nadège",
+    "login": "nadege.thiry@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5443.JPG"
+  },
+  {
+    "matric": "506",
+    "nom": "Tombeur",
+    "prenom": "Sarah",
+    "login": "sarah.tombeur@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/759.JPG"
+  },
+  {
+    "matric": "507",
+    "nom": "Tourrier",
+    "prenom": "Alexandre",
+    "login": "alexandre.tourrier@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5444.JPG"
+  },
+  {
+    "matric": "508",
+    "nom": "Tran",
+    "prenom": "Théo",
+    "login": "theo.tran@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/5021.JPG"
+  },
+  {
+    "matric": "509",
+    "nom": "Trovato",
+    "prenom": "Lucas",
+    "login": "lucas.trovato@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/4780.JPG"
+  },
+  {
+    "matric": "510",
+    "nom": "Tummers",
+    "prenom": "Simon",
+    "login": "simon.tummers@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5445.JPG"
+  },
+  {
+    "matric": "511",
+    "nom": "Urizar",
+    "prenom": "Adrian",
+    "login": "adrian.urizar@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5446.JPG"
+  },
+  {
+    "matric": "512",
+    "nom": "Van Der Rest",
+    "prenom": "Théodore",
+    "login": "theodore.vanderrest@etu.iad-arts.be",
+    "classe": "MM3B",
+    "photo": "PROECO_PHOTO/5022.JPG"
+  },
+  {
+    "matric": "513",
+    "nom": "Van Gelder",
+    "prenom": "Sophie",
+    "login": "sophie.vangelder@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/5023.JPG"
+  },
+  {
+    "matric": "514",
+    "nom": "Van Iersel Matine El Din Moham",
+    "prenom": "Yazid",
+    "login": "yazid.vanierselmatineeldinmoham@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5024.JPG"
+  },
+  {
+    "matric": "515",
+    "nom": "Van Itterbeeck",
+    "prenom": "Merlin",
+    "login": "merlin.vanitterbeeck@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/5025.JPG"
+  },
+  {
+    "matric": "516",
+    "nom": "Van Lierop",
+    "prenom": "Jan",
+    "login": "jan.vanlierop@etu.iad-arts.be",
+    "classe": "IM3B",
+    "photo": "PROECO_PHOTO/5026.JPG"
+  },
+  {
+    "matric": "517",
+    "nom": "Van Mullem",
+    "prenom": "Simon",
+    "login": "simon.vanmullem@etu.iad-arts.be",
+    "classe": "SON3B",
+    "photo": "PROECO_PHOTO/5027.JPG"
+  },
+  {
+    "matric": "518",
+    "nom": "Van cauwenberghe",
+    "prenom": "Manon",
+    "login": "manon.vancauwenberghe@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5260.JPG"
+  },
+  {
+    "matric": "519",
+    "nom": "Van der vorst",
+    "prenom": "Julien",
+    "login": "julien.vandervorst@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5447.JPG"
+  },
+  {
+    "matric": "520",
+    "nom": "Van gelder",
+    "prenom": "Mila",
+    "login": "mila.vangelder@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5448.JPG"
+  },
+  {
+    "matric": "521",
+    "nom": "Van vlem",
+    "prenom": "Jeremy",
+    "login": "jeremy.vanvlem@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5262.JPG"
+  },
+  {
+    "matric": "522",
+    "nom": "Van wylick",
+    "prenom": "Olivia",
+    "login": "olivia.vanwylick@etu.iad-arts.be",
+    "classe": "ID1T",
+    "photo": "PROECO_PHOTO/5449.JPG"
+  },
+  {
+    "matric": "523",
+    "nom": "Vande weyer",
+    "prenom": "Merlin",
+    "login": "merlin.vandeweyer@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5450.JPG"
+  },
+  {
+    "matric": "524",
+    "nom": "Vanden Bossche",
+    "prenom": "Julian",
+    "login": "julian.vandenbossche@etu.iad-arts.be",
+    "classe": "RTMAM",
+    "photo": "PROECO_PHOTO/4801.JPG"
+  },
+  {
+    "matric": "525",
+    "nom": "Vandenberghe",
+    "prenom": "Nicolas",
+    "login": "nicolas.vandenberghe@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5095.JPG"
+  },
+  {
+    "matric": "526",
+    "nom": "Vandeplas",
+    "prenom": "Laurence",
+    "login": "laurence.vandeplas@etu.iad-arts.be",
+    "classe": "RTRAM",
+    "photo": "PROECO_PHOTO/508.JPG"
+  },
+  {
+    "matric": "527",
+    "nom": "Vander velde",
+    "prenom": "Romain",
+    "login": "romain.vandervelde@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5263.JPG"
+  },
+  {
+    "matric": "528",
+    "nom": "Vanderhaeghen",
+    "prenom": "Marion",
+    "login": "marion.vanderhaeghen@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5264.JPG"
+  },
+  {
+    "matric": "529",
+    "nom": "Vandevelde",
+    "prenom": "Luca",
+    "login": "luca.vandevelde@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5451.JPG"
+  },
+  {
+    "matric": "530",
+    "nom": "Vanev",
+    "prenom": "Georges",
+    "login": "georges.vanev@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5107.JPG"
+  },
+  {
+    "matric": "531",
+    "nom": "Vannoorenberghe",
+    "prenom": "Félix",
+    "login": "felix.vannoorenberghe@etu.iad-arts.be",
+    "classe": "AESS1A",
+    "photo": "PROECO_PHOTO/512.JPG"
+  },
+  {
+    "matric": "532",
+    "nom": "Vargas",
+    "prenom": "Balthazar",
+    "login": "balthazar.vargas@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5265.JPG"
+  },
+  {
+    "matric": "533",
+    "nom": "Vargas bellefontaine",
+    "prenom": "Théo",
+    "login": "theo.vargasbellefontaine@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5452.JPG"
+  },
+  {
+    "matric": "534",
+    "nom": "Vedrine",
+    "prenom": "Victor",
+    "login": "victor.vedrine@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5266.JPG"
+  },
+  {
+    "matric": "535",
+    "nom": "Veenstra",
+    "prenom": "Gary",
+    "login": "gary.veenstra@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5267.JPG"
+  },
+  {
+    "matric": "536",
+    "nom": "Verbaeys",
+    "prenom": "Cindy",
+    "login": "cindy.verbaeys@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/4910.JPG"
+  },
+  {
+    "matric": "537",
+    "nom": "Vercleyen",
+    "prenom": "Harmony-Hedwige",
+    "login": "harmonyhedwige.vercleyen@etu.iad-arts.be",
+    "classe": "CIES2M",
+    "photo": "PROECO_PHOTO/5113.JPG"
+  },
+  {
+    "matric": "538",
+    "nom": "Vereerstraeten",
+    "prenom": "Amelia",
+    "login": "amelia.vereerstraeten@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/5028.JPG"
+  },
+  {
+    "matric": "539",
+    "nom": "Vermeiren",
+    "prenom": "Romain",
+    "login": "romain.vermeiren@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/519.JPG"
+  },
+  {
+    "matric": "540",
+    "nom": "Verschueren",
+    "prenom": "Zénon",
+    "login": "zenon.verschueren@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/5097.JPG"
+  },
+  {
+    "matric": "541",
+    "nom": "Verwée",
+    "prenom": "Tiago",
+    "login": "tiago.verwee@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5268.JPG"
+  },
+  {
+    "matric": "542",
+    "nom": "Viatour",
+    "prenom": "Martin",
+    "login": "martin.viatour@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5454.JPG"
+  },
+  {
+    "matric": "543",
+    "nom": "Vielle Gonzalez",
+    "prenom": "Nicolas",
+    "login": "nicolas.viellegonzalez@etu.iad-arts.be",
+    "classe": "IM2B",
+    "photo": "PROECO_PHOTO/5030.JPG"
+  },
+  {
+    "matric": "544",
+    "nom": "Villers",
+    "prenom": "Robin",
+    "login": "robin.villers@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5269.JPG"
+  },
+  {
+    "matric": "545",
+    "nom": "Visée",
+    "prenom": "Maëlys",
+    "login": "maelys.visee@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5455.JPG"
+  },
+  {
+    "matric": "546",
+    "nom": "Vliegen",
+    "prenom": "Maël",
+    "login": "mael.vliegen@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5270.JPG"
+  },
+  {
+    "matric": "547",
+    "nom": "Vuachet",
+    "prenom": "Lisa",
+    "login": "lisa.vuachet@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5031.JPG"
+  },
+  {
+    "matric": "548",
+    "nom": "Vuilleumier",
+    "prenom": "Léonard",
+    "login": "leonard.vuilleumier@etu.iad-arts.be",
+    "classe": "CIEF1M",
+    "photo": "PROECO_PHOTO/5467.JPG"
+  },
+  {
+    "matric": "549",
+    "nom": "Vulhopp",
+    "prenom": "Zia",
+    "login": "zia.vulhopp@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5456.JPG"
+  },
+  {
+    "matric": "550",
+    "nom": "Wacquiez",
+    "prenom": "Salomé",
+    "login": "salome.wacquiez@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5457.JPG"
+  },
+  {
+    "matric": "551",
+    "nom": "Waleffe",
+    "prenom": "Clément",
+    "login": "clement.waleffe@etu.iad-arts.be",
+    "classe": "CISAM",
+    "photo": "PROECO_PHOTO/4909.JPG"
+  },
+  {
+    "matric": "552",
+    "nom": "Walter",
+    "prenom": "Elodie",
+    "login": "elodie.walter@etu.iad-arts.be",
+    "classe": "REA2T",
+    "photo": "PROECO_PHOTO/5271.JPG"
+  },
+  {
+    "matric": "553",
+    "nom": "Watelet",
+    "prenom": "Capucine",
+    "login": "capucine.watelet@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/5033.JPG"
+  },
+  {
+    "matric": "554",
+    "nom": "Watillon",
+    "prenom": "Paul-Antoine",
+    "login": "paulantoine.watillon@etu.iad-arts.be",
+    "classe": "CIAAM",
+    "photo": "PROECO_PHOTO/769.JPG"
+  },
+  {
+    "matric": "555",
+    "nom": "Welraeds",
+    "prenom": "Alice",
+    "login": "alice.welraeds@etu.iad-arts.be",
+    "classe": "REA1T",
+    "photo": "PROECO_PHOTO/5458.JPG"
+  },
+  {
+    "matric": "556",
+    "nom": "Wery",
+    "prenom": "Joachim",
+    "login": "joachim.wery@etu.iad-arts.be",
+    "classe": "MS2B",
+    "photo": "PROECO_PHOTO/5272.JPG"
+  },
+  {
+    "matric": "557",
+    "nom": "Widart",
+    "prenom": "Victor",
+    "login": "victor.widart@etu.iad-arts.be",
+    "classe": "MS1B",
+    "photo": "PROECO_PHOTO/5460.JPG"
+  },
+  {
+    "matric": "558",
+    "nom": "Willemart",
+    "prenom": "Gilles",
+    "login": "gilles.willemart@etu.iad-arts.be",
+    "classe": "IM1B",
+    "photo": "PROECO_PHOTO/5461.JPG"
+  },
+  {
+    "matric": "559",
+    "nom": "Williot",
+    "prenom": "Hugo",
+    "login": "hugo.williot@etu.iad-arts.be",
+    "classe": "ID3T",
+    "photo": "PROECO_PHOTO/4754.JPG"
+  },
+  {
+    "matric": "560",
+    "nom": "Wirtz",
+    "prenom": "Nicolas",
+    "login": "nicolas.wirtz@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5462.JPG"
+  },
+  {
+    "matric": "561",
+    "nom": "Wève",
+    "prenom": "Alexandra",
+    "login": "alexandra.weve@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5273.JPG"
+  },
+  {
+    "matric": "562",
+    "nom": "Wéry",
+    "prenom": "Lile",
+    "login": "lile.wery@etu.iad-arts.be",
+    "classe": "ID2T",
+    "photo": "PROECO_PHOTO/5459.JPG"
+  },
+  {
+    "matric": "563",
+    "nom": "Xhrouet",
+    "prenom": "Tom",
+    "login": "tom.xhrouet@etu.iad-arts.be",
+    "classe": "MM2B",
+    "photo": "PROECO_PHOTO/5274.JPG"
+  },
+  {
+    "matric": "564",
+    "nom": "Yans",
+    "prenom": "Manoé",
+    "login": "manoe.yans@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5463.JPG"
+  },
+  {
+    "matric": "565",
+    "nom": "Yarzabal",
+    "prenom": "Alejandro",
+    "login": "alejandro.yarzabal@etu.iad-arts.be",
+    "classe": "SON2B",
+    "photo": "PROECO_PHOTO/5275.JPG"
+  },
+  {
+    "matric": "566",
+    "nom": "Zanellino",
+    "prenom": "Constant",
+    "login": "constant.zanellino@etu.iad-arts.be",
+    "classe": "REA3T",
+    "photo": "PROECO_PHOTO/5101.JPG"
+  },
+  {
+    "matric": "567",
+    "nom": "Zschau",
+    "prenom": "Robin",
+    "login": "robin.zschau@etu.iad-arts.be",
+    "classe": "CIIAM",
+    "photo": "PROECO_PHOTO/549.JPG"
+  },
+  {
+    "matric": "568",
+    "nom": "de Clippele",
+    "prenom": "Victor",
+    "login": "victor.declippele@etu.iad-arts.be",
+    "classe": "SON1B",
+    "photo": "PROECO_PHOTO/5342.JPG"
+  },
+  {
+    "matric": "569",
+    "nom": "de Pape",
+    "prenom": "Maxime",
+    "login": "maxime.depape@etu.iad-arts.be",
+    "classe": "MS3B",
+    "photo": "PROECO_PHOTO/4948.JPG"
+  }
+]

@@ -12,8 +12,8 @@ Pour le lancer :
 * En utilisant postman, faire une requête vers une des adresses obtenues ci-dessus.
 
 Exercices
-[] Essayer de modifier le code dans `app.js` pour changer le message.
-[] Essayer de se connecter sur le serveur d'un autre étudiant.
-[] Créer une nouvelle route qui affichera un autre message quand on appelle `http://##ADRESSE_IP##/me`
-[] En utilisant [res.redirect](http://expressjs.com/en/4x/api.html#res.redirect) rediriger la requete vers un autre camarade quand on appelle p.ex `http://##ADRESSE_IP##/manon`
-[] Stocker plusieurs adresses dans un tableau et rediriger aléatoirement vers l'une ou l'autre.
+-[ ] Essayer de modifier le code dans `app.js` pour changer le message.
+-[ ] Essayer de se connecter sur le serveur d'un autre étudiant.
+-[ ] Créer une nouvelle route qui affichera un autre message quand on appelle `http://##ADRESSE_IP##/me`
+-[ ] En utilisant [res.redirect](http://expressjs.com/en/4x/api.html#res.redirect) rediriger la requete vers un autre camarade quand on appelle p.ex `http://##ADRESSE_IP##/manon`
+-[ ] Stocker plusieurs adresses dans un tableau et rediriger aléatoirement vers l'une ou l'autre.

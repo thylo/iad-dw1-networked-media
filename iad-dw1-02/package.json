@@ -1,0 +1,12 @@
+{
+  "name": "iad-dw1-02",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "nomDuRacourci" : "commande à executer"
+  },
+  "dependencies": {
+    "express": "~4.16.1"
+  }
+}
